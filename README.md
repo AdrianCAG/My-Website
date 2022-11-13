@@ -1,3 +1,3 @@
-# My-Website
+# Website
 
 # Not for edit
